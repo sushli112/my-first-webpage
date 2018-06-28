@@ -1,0 +1,10 @@
+a{
+    color: red;
+    text-decoration: underline
+}
+h1{
+    font-family: sans-serif;
+}
+p,h1{
+    margin-left: 50px
+}
