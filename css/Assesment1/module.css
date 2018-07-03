@@ -17,7 +17,7 @@ header .container_16 .grid_16{
 }
 
   footer .container_16 .grid_16{
-    height: 33px;
+    height: 50px;
   }
 .ul_sidebar{
     list-style-type: none;
@@ -56,4 +56,8 @@ header .container_16 .grid_16{
 }
 .footerImg{
     height: 15px;
+}
+.h-ulist{
+    margin-top: 2px;
+    height: 40px;
 }
