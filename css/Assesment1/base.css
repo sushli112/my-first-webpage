@@ -1,0 +1,45 @@
+body {
+    height: 100%;
+    margin: 0;
+}
+
+header{
+    background: #7E7F9A  ;
+    height:11%;
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    z-index: 1;
+}
+
+nav{
+    width: 100vh;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+aside{
+    text-align: center;
+    background:#97A7B3;
+    height: 300px;
+}
+main{
+    text-align: center;
+    background: #9FFFCB;
+    height: 300px;;
+}
+section{
+    text-align: center;
+    height: 300px;
+}
+footer{
+    height: 5vh;
+    text-align: center;
+    background: #131a22  ;
+}
+img {
+    height: 5vh;  
+   
+}

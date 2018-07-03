@@ -1,0 +1,41 @@
+.parentDiv{
+    display: flex;
+    height: 90vh;
+}
+.left{
+    flex:15%;
+    background: blue;
+    text-align: center;
+}
+.main{
+    flex: 70%;
+    background: red;
+    text-align: center;
+}
+.right{
+    flex: 15%;
+    background: green;
+    text-align: center;
+}
+header{
+    background: yellow;
+    text-align: left;
+    font-size: 20px;
+    height: 5vh;
+}
+footer{
+    background: brown;
+    text-align: center;
+    height: 5vh;
+}
+li{
+    display: inline;
+    text-decoration: none;
+    padding-right: 10px;
+}
+img{
+height: 20px;
+}
+nav{
+    background: blueviolet
+}

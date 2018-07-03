@@ -1,0 +1,59 @@
+.h-list{
+    display: inline;
+    text-decoration: none;
+}
+
+header .container_16 .grid_16{
+    height: 50px;
+  }
+  .sidemenu{
+      text-decoration: none;
+      text-align: left; 
+      margin-bottom: 10px;
+  }
+  .sidemenu:hover{
+    text-decoration: underline;
+
+}
+
+  footer .container_16 .grid_16{
+    height: 33px;
+  }
+.ul_sidebar{
+    list-style-type: none;
+}
+
+.addImage{
+    height: 120px;
+    width: 156px;
+}
+.grid3-addImage{
+        height: 140px;
+        width: 460px;
+}
+.grid3-addImage:hover{
+    transform: scale(1.03);
+}
+.addImage:hover{
+    transform: scale(1.03);
+}
+.grid3-firstSec-addImage{
+    height: 400px;
+    width: 460px;
+}
+.grid3-firstSec-addImage:hover{
+    transform: scale(1.03); 
+}
+.add-thirdParty{
+    width: 288px; 
+    height: 300px;
+}
+.add-thirdParty:hover{
+    transform: scale(1.03); 
+}
+.footerText{
+    color: white;
+}
+.footerImg{
+    height: 15px;
+}

@@ -1,0 +1,115 @@
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+.hero-image {
+  background-image: url("../../img/nettuts_Logo.jpg");
+  height: 30%;
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.hero-text {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+
+.hero-text button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 10px 25px;
+  color: black;
+  background-color: #ddd;
+  text-align: center;
+  cursor: pointer;
+}
+
+.hero-text button:hover {
+  background-color: #555;
+  color: white;
+}
+
+header{
+    background: skyblue  ;
+}
+header img{
+    height: 10vh;
+}
+nav{
+    width: 100vh;
+}
+li{
+    display: inline;
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+}
+aside{
+    text-align: center;
+    background: blue;
+    height: 300px;
+}
+.grid_3 aside ul li{
+    display: inline;
+}
+main{
+    text-align: center;
+    background: green;
+    height: 300px;;
+}
+.grid_3 section{
+    background: red;   
+}
+section{
+    text-align: center;
+    height: 300px;
+}
+
+.grid_8 .firstSection{
+    background: yellow;
+}
+
+.rightparent{
+display: flex;
+flex-direction: column;
+}
+.rightchild1{
+    flex:30%;
+    background: springgreen;
+    height: 95px;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+.rightchild2{
+    flex:30%;
+    background: tomato;
+    height: 90px;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+.rightchild3{
+    flex:40%;
+    background: violet;
+    height: 100px;
+    text-align: center;
+    }
+footer{
+    background: fuchsia ;
+    height: 5vh;
+    text-align: center;
+}
+img {
+    height: 5vh;  
+   
+}
